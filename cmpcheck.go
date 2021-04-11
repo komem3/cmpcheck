@@ -23,7 +23,7 @@ var Analyzer = &analysis.Analyzer{
 }
 
 const (
-	cmpDiff   = "cmp.Diff"
+	cmpDiff   = "github.com/google/go-cmp/cmp.Diff"
 	deepEqual = "reflect.DeepEqual"
 )
 
